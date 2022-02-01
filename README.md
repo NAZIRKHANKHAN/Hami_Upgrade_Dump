@@ -22,7 +22,7 @@
 
  - `pip install mechanize`
 
- - `chmod 777 Hami_Upgrade_Dump.pyc`
+ - `chmod 777 Hami_Upgrade_Dump_New.py`
 
  - `python Hami_Upgrade_Dump_New.py`
 
