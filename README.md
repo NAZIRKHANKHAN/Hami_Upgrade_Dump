@@ -24,7 +24,7 @@
 
  - `chmod 777 Hami_Upgrade_Dump.pyc`
 
- - `python Hami_Upgrade_Dump.pyc`
+ - `python2 Hami_Upgrade_Dump.pyc`
 
 #### WARNING : 
 
