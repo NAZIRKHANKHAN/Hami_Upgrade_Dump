@@ -12,11 +12,9 @@
 
  - `rm -rf Pro`
 
- - `https://github.com/Hamii-king-06/Hami_Upgrade_Dump.git`
+ - `git clone https://github.com/Hamii-king-06/Hami_Upgrade_Dump.git`
 
- - `cd Hami_Upgrade_Dump
-
-`
+ - `cd Hami_Upgrade_Dump`
 
  - `pip install bs4`
 
@@ -31,3 +29,20 @@
 #### WARNING : 
 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
